@@ -1,0 +1,4639 @@
+﻿1
+00:01:29,589 --> 00:01:31,132
+Oh, bollocks.
+
+2
+00:01:35,762 --> 00:01:36,805
+We've got a problem.
+
+3
+00:01:36,930 --> 00:01:39,474
+A cyber attack?
+Yes. Prime Minister.
+
+4
+00:01:39,557 --> 00:01:42,477
+Took me
+two bottles of wine
+
+5
+00:01:42,560 --> 00:01:45,397
+and half a packet of sleeping
+pills to finally nod off.
+
+6
+00:01:45,522 --> 00:01:50,026
+And you wake me because some fat-fingered
+hacker's pinched your PIN number?
+
+7
+00:01:50,318 --> 00:01:51,921
+Well, it's a little more serious
+than that, Prime Minister.
+
+8
+00:01:51,945 --> 00:01:53,863
+Hmm?
+The identities of every one
+
+9
+00:01:53,947 --> 00:01:55,949
+of our serving agents
+have been exposed.
+
+10
+00:01:56,950 --> 00:01:57,993
+What?
+
+11
+00:01:58,118 --> 00:02:00,120
+Who's doing this?
+We're not sure. ma'am.
+
+12
+00:02:00,245 --> 00:02:03,039
+So one week before I host
+my first G12 Summit,
+
+13
+00:02:03,123 --> 00:02:05,333
+Britain's entire security
+apparatus has been taken down
+
+14
+00:02:05,458 --> 00:02:06,835
+and you know absolutely nothing?
+
+15
+00:02:06,918 --> 00:02:09,671
+That does pretty much sums up
+the situation, ma'am, yes.
+
+16
+00:02:09,796 --> 00:02:11,732
+Well, you better get someone on
+it and find me some answers!
+
+17
+00:02:11,756 --> 00:02:14,026
+Yes, but that's the problem.
+We don't have any agents left.
+
+18
+00:02:14,050 --> 00:02:15,093
+They've all been outed.
+
+19
+00:02:15,343 --> 00:02:17,595
+So bring back an old one!
+
+20
+00:02:31,401 --> 00:02:35,488
+All units, this is Juliet Echo.
+Stand by for target coordinates.
+
+21
+00:02:37,991 --> 00:02:41,995
+Target acquired.
+Repeat, target acquired.
+
+22
+00:03:00,013 --> 00:03:02,807
+Now then, what have we here?
+
+23
+00:03:05,101 --> 00:03:06,227
+Sorry, sir.
+
+24
+00:03:06,394 --> 00:03:07,979
+Never mind, Baggaley.
+
+25
+00:03:08,063 --> 00:03:11,107
+Your concealment and camouflage
+work is definitely improving.
+
+26
+00:03:11,232 --> 00:03:12,317
+Thank you, sir.
+
+27
+00:03:12,525 --> 00:03:13,526
+Come on.
+
+28
+00:03:13,610 --> 00:03:15,528
+You, too, Ibadulla.
+
+29
+00:03:15,653 --> 00:03:18,823
+Excellent. That is
+a first-class man-trap.
+
+30
+00:03:19,532 --> 00:03:21,368
+Six house points.
+
+31
+00:03:23,119 --> 00:03:25,330
+Right, let's get back
+to school before matron
+
+32
+00:03:25,413 --> 00:03:26,849
+notices you're missing.
+
+33
+00:03:26,873 --> 00:03:29,417
+And don't worry, there aren't
+any more booby traps.
+
+34
+00:03:32,253 --> 00:03:34,589
+Apart from this one, of course.
+
+35
+00:03:49,729 --> 00:03:50,814
+Mr. English?
+
+36
+00:03:51,106 --> 00:03:52,607
+We haven't seen him, sir.
+
+37
+00:03:53,066 --> 00:03:54,192
+Huh.
+
+38
+00:03:55,402 --> 00:03:58,238
+And that's camouflage.
+
+39
+00:04:00,990 --> 00:04:02,158
+Hmm.
+
+40
+00:04:06,496 --> 00:04:07,497
+And go.
+
+41
+00:04:08,581 --> 00:04:09,666
+And go.
+
+42
+00:04:10,500 --> 00:04:11,876
+And go.
+
+43
+00:04:12,085 --> 00:04:15,004
+The welfare of your children
+is our paramount concern.
+
+44
+00:04:15,380 --> 00:04:17,382
+They're never exposed
+to any unnecessary risk,
+
+45
+00:04:17,465 --> 00:04:18,883
+I assure you.
+
+46
+00:04:29,769 --> 00:04:33,898
+I think that's an "F" for your bomb
+disposal coursework, Hattersley.
+
+47
+00:04:34,357 --> 00:04:37,026
+"You're looking particularly
+beautiful tonight."
+
+48
+00:04:37,152 --> 00:04:40,572
+You're looking
+particularly beautiful tonight.
+
+49
+00:04:40,864 --> 00:04:41,865
+"Ching!"
+
+50
+00:04:42,198 --> 00:04:43,450
+Ching!
+
+51
+00:04:45,535 --> 00:04:48,079
+Have a good half-term, sir!
+Thank you.
+
+52
+00:05:41,049 --> 00:05:43,301
+Are you seriously telling me
+this is all we've got?
+
+53
+00:05:43,426 --> 00:05:44,761
+Most of them are either dead,
+
+54
+00:05:44,844 --> 00:05:47,680
+having hip operations or
+recovering from prostate surgery.
+
+55
+00:05:49,766 --> 00:05:50,767
+Okay.
+
+56
+00:05:51,392 --> 00:05:55,146
+Before your briefing, we'll need you
+to re-sign the Official Secrets Aot.
+
+57
+00:05:55,271 --> 00:05:56,439
+Thank you.
+
+58
+00:05:56,814 --> 00:05:57,857
+Thank you.
+
+59
+00:05:57,941 --> 00:05:58,942
+Thank you.
+
+60
+00:05:59,442 --> 00:06:00,944
+Thank you very much.
+
+61
+00:06:01,361 --> 00:06:03,613
+Any of you
+gentlemen remember this?
+
+62
+00:06:04,072 --> 00:06:07,617
+Ooh, the Mont Blanc Blaster.
+Havenfiseen one of those for years.
+
+63
+00:06:07,867 --> 00:06:12,539
+Take the cap off and, if memory serves,
+you've 20 seconds to replace it
+
+64
+00:06:12,664 --> 00:06:15,500
+or it detonates with the force
+of a stun grenade.
+
+65
+00:06:35,979 --> 00:06:37,313
+Thank you.
+
+66
+00:06:39,983 --> 00:06:42,360
+Teas on the left, gentlemen.
+
+67
+00:06:42,485 --> 00:06:44,445
+And coffees on the right.
+
+68
+00:06:44,737 --> 00:06:45,947
+Excellent.
+
+69
+00:06:46,072 --> 00:06:49,033
+Oh, damn it, I forgot my pills.
+
+70
+00:06:49,200 --> 00:06:51,327
+<i>Here, have some of m'me.</i>
+
+71
+00:06:52,912 --> 00:06:54,998
+Scotch whisky, single malt?
+
+72
+00:06:55,123 --> 00:06:56,958
+Thank you very much.
+
+73
+00:06:57,166 --> 00:06:59,168
+Coffee.
+Oh.
+
+74
+00:06:59,252 --> 00:07:01,504
+Here, let me help you with that.
+
+75
+00:07:06,801 --> 00:07:07,885
+Tea?
+
+76
+00:07:13,349 --> 00:07:16,144
+Ooh, this one just needs
+a little top-up of hot water.
+
+77
+00:07:16,769 --> 00:07:18,229
+I'll be right back.
+
+78
+00:07:20,106 --> 00:07:22,358
+Man's a divot
+of the first order.
+
+79
+00:07:22,442 --> 00:07:24,777
+Someone should put him
+out of his misery.
+
+80
+00:07:24,902 --> 00:07:27,947
+Along with whoever
+furnished this room.
+
+81
+00:07:28,031 --> 00:07:30,116
+MkvCage.ws
+
+82
+00:07:34,037 --> 00:07:35,204
+Oh!
+
+83
+00:07:37,498 --> 00:07:39,500
+Ah, good morning.
+Sorry to keep you.
+
+84
+00:07:41,461 --> 00:07:43,212
+Are the others here?
+
+85
+00:07:43,504 --> 00:07:44,756
+Um...
+
+86
+00:07:45,840 --> 00:07:47,008
+Oh.
+
+87
+00:07:51,304 --> 00:07:54,724
+They, um... They nodded off.
+
+88
+00:07:55,266 --> 00:07:56,267
+Right...
+
+89
+00:07:57,518 --> 00:07:58,811
+And who are you exactly?
+
+90
+00:07:59,312 --> 00:08:00,396
+EngHsh.
+
+91
+00:08:01,356 --> 00:08:03,066
+- Johnny English.
+- Well...
+
+92
+00:08:04,525 --> 00:08:06,027
+“English...“
+
+93
+00:08:07,362 --> 00:08:08,821
+You'll leave immediately.
+
+94
+00:08:08,905 --> 00:08:10,990
+My people will give you
+the full briefing en route.
+
+95
+00:08:11,074 --> 00:08:12,408
+Oh, is there anything you need?
+
+96
+00:08:12,492 --> 00:08:16,204
+Yes, nerve gas nasal spray,
+a type-four exoskeleton...
+
+97
+00:08:16,329 --> 00:08:18,247
+You should probably
+start a list.
+
+98
+00:08:18,373 --> 00:08:21,793
+And a garroting watch, with a rubber
+strap, not the steel bracelet
+
+99
+00:08:21,918 --> 00:08:25,254
+because the links get caught in
+the little hairs on my wrist.
+
+100
+00:08:25,588 --> 00:08:27,674
+Oh, and I'll also need a Bough.
+
+101
+00:08:28,216 --> 00:08:29,717
+What's a Bough?
+
+102
+00:08:31,094 --> 00:08:32,095
+Sir!
+
+103
+00:08:34,180 --> 00:08:36,015
+Wonderful to see you!
+
+104
+00:08:37,225 --> 00:08:39,936
+Yes, all right, Bough. We're going
+on a mission, not a honeymoon.
+
+105
+00:08:40,186 --> 00:08:41,771
+Yes, of course, sir.
+
+106
+00:08:42,397 --> 00:08:45,441
+Ah. I think it's the pin of your
+buckle, sir. It's caught on myjumper.
+
+107
+00:08:45,525 --> 00:08:46,877
+Yes, I can see
+what's wrong, Bough.
+
+108
+00:08:46,901 --> 00:08:50,071
+If you go to your left
+and I'll go to my right.
+
+109
+00:08:51,447 --> 00:08:54,701
+I'm sorry, no, if you go to your
+right and I'll go to my left.
+
+110
+00:08:56,744 --> 00:09:00,289
+No. If I go clockwise
+and you go anti-clockwise...
+
+111
+00:09:01,249 --> 00:09:02,810
+Er, no, I think that's
+making it worse, sir.
+
+112
+00:09:02,834 --> 00:09:05,253
+Hmm. I'm surprised
+that didn't work.
+
+113
+00:09:10,508 --> 00:09:13,678
+Good morning, sir. I have your
+agent activation pack here.
+
+114
+00:09:14,220 --> 00:09:15,888
+Department-issue smartphone.
+
+115
+00:09:15,972 --> 00:09:20,268
+580-megapixel camera,
+4.7-inch retina HD display.
+
+116
+00:09:20,351 --> 00:09:25,356
+Hmm-hmm. Ingenious. And what
+does it shoot? Poison darts?
+
+117
+00:09:25,982 --> 00:09:29,694
+It doesn't shoot anything.
+It's a phone.
+
+118
+00:09:30,278 --> 00:09:32,196
+There's a Twitter handle,
+Instagram feed
+
+119
+00:09:32,280 --> 00:09:34,282
+and secure login for the
+department Uber account.
+
+120
+00:09:34,365 --> 00:09:35,405
+What's he on about, Bough?
+
+121
+00:09:35,450 --> 00:09:37,577
+I need a weapon.
+Not a box of gobbledygook.
+
+122
+00:09:37,785 --> 00:09:40,121
+I think, uh, what Agent English
+
+123
+00:09:40,204 --> 00:09:42,498
+is getting at, sir, is all
+this is highly trackable.
+
+124
+00:09:42,790 --> 00:09:46,169
+But since we're dealing with a very
+sophisticated, digital target,
+
+125
+00:09:46,252 --> 00:09:50,840
+we might be less visible if we took
+a more analog, low-tech approach.
+
+126
+00:09:52,508 --> 00:09:53,593
+Exactly.
+
+127
+00:09:55,011 --> 00:09:56,345
+I see.
+
+128
+00:09:56,888 --> 00:09:58,681
+Is there anything else
+I can get you?
+
+129
+00:09:59,098 --> 00:10:00,433
+<i>A gun.</i>
+
+130
+00:10:01,976 --> 00:10:06,147
+We don't really do guns anymore.
+
+131
+00:10:06,522 --> 00:10:08,107
+Just get him a gun.
+
+132
+00:10:08,524 --> 00:10:09,817
+Right, a gun.
+
+133
+00:10:16,449 --> 00:10:19,535
+Right. Haven't actually done
+one of these before.
+
+134
+00:10:20,703 --> 00:10:22,830
+"It is my obligation
+under section 14
+
+135
+00:10:22,914 --> 00:10:24,767
+"of the Health and Safety
+Directive to inform you
+
+136
+00:10:24,791 --> 00:10:27,460
+"that the equipment with which
+you are about to be issued
+
+137
+00:10:27,543 --> 00:10:29,462
+"can cause injury
+and bodily harm.
+
+138
+00:10:33,382 --> 00:10:36,010
+"Furthermore, any agents
+with nut allergies
+
+139
+00:10:36,093 --> 00:10:37,279
+"should be aware
+that traces of cashew oil..."
+
+140
+00:10:37,303 --> 00:10:38,638
+Thank you.
+
+141
+00:10:41,265 --> 00:10:42,683
+Right, transport.
+
+142
+00:10:46,479 --> 00:10:48,523
+So, take any hybrid you want.
+
+143
+00:11:04,413 --> 00:11:05,665
+I'll take this one.
+
+144
+00:11:05,915 --> 00:11:08,960
+Oh, don't be ridiculous,
+English. This car is a relic.
+
+145
+00:11:09,043 --> 00:11:11,838
+Drinks petrol, leaks oil
+and has no passive,
+
+146
+00:11:11,921 --> 00:11:13,589
+let alone
+active safety features.
+
+147
+00:11:13,798 --> 00:11:15,275
+Do you know what else
+it doesn't have, sir?
+
+148
+00:11:15,299 --> 00:11:18,052
+Satellite navigation
+or a single computer chip.
+
+149
+00:11:18,135 --> 00:11:21,389
+Making it completely invisible
+to a digital enemy.
+
+150
+00:11:23,391 --> 00:11:25,476
+The equipment
+Agent English requested, sir.
+
+151
+00:11:25,560 --> 00:11:26,769
+Thank you.
+
+152
+00:11:27,895 --> 00:11:29,689
+Phone. Bough?
+Yeah.
+
+153
+00:11:32,859 --> 00:11:36,070
+That hi-tech villain of yours
+will never see us coming.
+
+154
+00:11:53,588 --> 00:11:55,423
+Let's see
+what they've given us.
+
+155
+00:11:56,132 --> 00:12:00,845
+Exoskeleton, exploding cotton
+buds, the old shoebox inflatable.
+
+156
+00:12:00,928 --> 00:12:02,138
+Hmm.
+
+157
+00:12:03,097 --> 00:12:07,476
+Ooh. what are these? Instant
+Release Super High Energy Pills.
+
+158
+00:12:07,685 --> 00:12:11,814
+Like sticking your fingers in an
+electric socket. Highly recommended.
+
+159
+00:12:12,732 --> 00:12:15,860
+Right, so, the red ones must be the
+Total Knockout Sleeping Pills.
+
+160
+00:12:15,985 --> 00:12:17,069
+Correct.
+
+161
+00:12:17,153 --> 00:12:19,447
+Hmm. Probably worth
+labeling these.
+
+162
+00:12:19,530 --> 00:12:20,573
+Oh.
+
+163
+00:12:20,656 --> 00:12:23,075
+Look, sir. Sweeties.
+
+164
+00:12:24,076 --> 00:12:25,161
+Ooh.
+
+165
+00:12:25,703 --> 00:12:27,455
+Hang on a minute.
+
+166
+00:12:27,580 --> 00:12:29,415
+I always did love a jelly baby.
+
+167
+00:12:29,498 --> 00:12:32,585
+I wouldn't if I was you, Bough.
+"Jelly" is short for gelignite.
+
+168
+00:12:32,668 --> 00:12:34,438
+One bite and it'll take
+the top of your head off
+
+169
+00:12:34,462 --> 00:12:36,130
+along with the roof of the car.
+
+170
+00:12:36,714 --> 00:12:38,466
+So, what does this do?
+
+171
+00:12:39,717 --> 00:12:41,594
+It's a mixtape, Bough.
+
+172
+00:12:46,015 --> 00:12:48,684
+- So, destination?
+- South of France, sir.
+
+173
+00:12:48,768 --> 00:12:50,770
+That cyber attack
+seems to have been launched
+
+174
+00:12:50,853 --> 00:12:53,314
+from the Wi-Fi signal
+of a hotel in Antibes.
+
+175
+00:13:38,067 --> 00:13:41,362
+Sir? Sir, I've just had
+a fax through from HQ.
+
+176
+00:13:41,779 --> 00:13:44,907
+Background checks on all the guests
+that accessed the Wi-Fi network.
+
+177
+00:13:44,991 --> 00:13:47,118
+You see? Who needs email?
+
+178
+00:13:52,873 --> 00:13:54,125
+Um...
+
+179
+00:13:54,208 --> 00:13:56,544
+One name has raised
+a red flag, sir.
+
+180
+00:13:57,336 --> 00:14:00,256
+Sebastian Lynch, ex-Army
+and Military Intelligence.
+
+181
+00:14:00,506 --> 00:14:03,342
+Now selling his services
+to the highest bidder.
+
+182
+00:14:03,634 --> 00:14:06,303
+Where do we find him?
+Directly ahead. sir.
+
+183
+00:14:07,972 --> 00:14:11,183
+He's got an 8:00 reservation
+at the Cote de Roc restaurant.
+
+184
+00:14:21,777 --> 00:14:25,057
+The problem's going to be getting
+close enough for a full surveillance, sir.
+
+185
+00:14:25,239 --> 00:14:27,158
+Not necessarily.
+
+186
+00:14:43,966 --> 00:14:47,053
+Oh, darling, I've just
+gotta get this. Two seconds.
+
+187
+00:14:47,636 --> 00:14:51,974
+Simple plan, two parts. You provide
+the distraction, I'll get the phone.
+
+188
+00:14:52,058 --> 00:14:54,393
+Yes. sir.
+And from now on,
+
+189
+00:14:54,769 --> 00:14:59,732
+perhaps we
+should sound like French waiters.
+
+190
+00:15:01,400 --> 00:15:03,277
+French waiters?
+
+191
+00:15:04,153 --> 00:15:05,404
+Yees.
+
+192
+00:15:06,947 --> 00:15:08,115
+Go on.
+
+193
+00:15:13,871 --> 00:15:15,915
+Are you finished now, Sebasfian?
+
+194
+00:15:17,208 --> 00:15:18,709
+Bread roll?
+
+195
+00:15:18,959 --> 00:15:20,044
+Yes, thank you.
+
+196
+00:15:20,419 --> 00:15:22,379
+Excellent choice,
+<i>madame.</i>
+
+197
+00:15:23,839 --> 00:15:25,257
+Good evening.
+
+198
+00:15:25,841 --> 00:15:27,426
+How are you?
+
+199
+00:15:29,220 --> 00:15:30,721
+Bread roll, sir?
+
+200
+00:15:30,846 --> 00:15:32,264
+Yes. Thank you.
+
+201
+00:15:37,269 --> 00:15:38,562
+One second.
+
+202
+00:15:38,854 --> 00:15:40,773
+Excuse me, would you mind?
+
+203
+00:15:41,607 --> 00:15:43,818
+Oh, yes. Evening.
+
+204
+00:15:44,401 --> 00:15:45,486
+Evening.
+
+205
+00:15:59,834 --> 00:16:01,168
+Thank you.
+
+206
+00:16:15,432 --> 00:16:16,600
+Where's my phone?
+
+207
+00:16:18,269 --> 00:16:19,645
+That is your phone.
+
+208
+00:16:21,730 --> 00:16:23,566
+Ooh.
+
+209
+00:16:28,237 --> 00:16:29,238
+Thank you.
+
+210
+00:16:30,531 --> 00:16:31,574
+<i>Monsieur.</i>
+
+211
+00:16:32,741 --> 00:16:36,036
+The, uh, shell on my wife's lobster,
+could you remove it, please?
+
+212
+00:16:38,247 --> 00:16:39,415
+Yees.
+
+213
+00:16:40,207 --> 00:16:42,126
+Uh...
+
+214
+00:16:42,376 --> 00:16:43,544
+Hmm.
+
+215
+00:16:47,548 --> 00:16:49,842
+Let me crack it for you.
+
+216
+00:17:03,689 --> 00:17:05,024
+Oh!
+
+217
+00:17:05,816 --> 00:17:06,984
+Ow!
+
+218
+00:17:38,432 --> 00:17:39,600
+Hello?
+
+219
+00:17:42,686 --> 00:17:45,046
+Steve, I'll have to
+call you back. Call you back.
+
+220
+00:17:47,233 --> 00:17:48,484
+Give me a sec. Hang on.
+
+221
+00:17:49,902 --> 00:17:51,445
+What is going on?
+
+222
+00:17:54,949 --> 00:17:56,992
+Sebastian, don't get involved.
+
+223
+00:18:00,329 --> 00:18:01,664
+Ah.
+
+224
+00:18:05,876 --> 00:18:08,337
+What is he doing? SEBASTIAN:
+I don't know. He's a fool.
+
+225
+00:18:09,421 --> 00:18:11,006
+There we are.
+
+226
+00:18:13,259 --> 00:18:14,468
+<i>Voila.</i>
+
+227
+00:18:21,850 --> 00:18:24,103
+Hmm. Bon appétit.
+
+228
+00:18:27,231 --> 00:18:30,359
+I will talk to the manager.
+I will talk to the manager.
+
+229
+00:18:39,535 --> 00:18:41,620
+Textbook, Bough.
+
+230
+00:18:46,083 --> 00:18:47,918
+Just
+holiday snaps, sir.
+
+231
+00:18:49,128 --> 00:18:51,046
+Wait a minute, this photo.
+
+232
+00:18:51,297 --> 00:18:55,134
+It was taken the same day our villain
+accessed the Wi-Fi, and look.
+
+233
+00:18:55,801 --> 00:18:57,761
+Scarcely 50 feet from shore.
+
+234
+00:18:59,555 --> 00:19:00,931
+Whoever was on that yacht
+
+235
+00:19:01,015 --> 00:19:03,767
+could easily have used
+the hotel's Wi-Fi,
+
+236
+00:19:03,851 --> 00:19:07,021
+sent that signal
+and then just sailed away.
+
+237
+00:19:07,563 --> 00:19:12,234
+I think it's time
+we paid the Dot <i>Calm</i> a visit.
+
+238
+00:19:24,955 --> 00:19:25,956
+<i>Algorithms.</i>
+
+239
+00:19:26,040 --> 00:19:28,250
+<i>We are surrounded by them.</i>
+
+240
+00:19:28,334 --> 00:19:30,502
+<i>Algorithms run our lives,</i>
+
+241
+00:19:30,586 --> 00:19:35,049
+<i>choose our TV shows, stream our music.
+Even find us a date.</i>
+
+242
+00:19:37,092 --> 00:19:38,844
+I know this chap, don't I?
+
+243
+00:19:38,969 --> 00:19:42,222
+Yes, he's that Silicon Valley
+billionaire who dated a Kardashian.
+
+244
+00:19:42,306 --> 00:19:45,017
+Two Kardashians and a Black-Eyed Pea.
+Keep watching.
+
+245
+00:19:45,184 --> 00:19:48,437
+<i>But supposing there was an
+algorithm for an entire country.</i>
+
+246
+00:19:48,520 --> 00:19:52,107
+<i>A single algorithm that could be
+applied to every one of its problems.</i>
+
+247
+00:19:52,358 --> 00:19:56,528
+<i>A single algorithm that could take
+a second-rate nation and make it</i>
+
+248
+00:19:57,071 --> 00:19:58,947
+<i>world class.</i>
+
+249
+00:20:00,282 --> 00:20:02,701
+<i>Every nation is awash with data.</i>
+
+250
+00:20:03,410 --> 00:20:08,040
+So now, more than ever, we need to put
+that data to work for the people.
+
+251
+00:20:08,540 --> 00:20:11,418
+These few lines of code will
+deliver the kind of change
+
+252
+00:20:11,543 --> 00:20:14,296
+they have been dreaming of
+their entire lives.
+
+253
+00:20:14,421 --> 00:20:17,466
+<i>I am Xander. I love data.</i>
+
+254
+00:20:20,677 --> 00:20:22,429
+He's so clever.
+
+255
+00:20:22,554 --> 00:20:25,474
+He's young, he's sexy,
+he's insanely successful.
+
+256
+00:20:25,599 --> 00:20:28,560
+Just the qualities we need
+people to associate with me.
+
+257
+00:20:29,895 --> 00:20:30,938
+Yes, Prime Minister.
+
+258
+00:20:31,063 --> 00:20:33,565
+And they will do when he
+starts working with us.
+
+259
+00:20:33,690 --> 00:20:36,276
+But why would 3 Silicon Valley
+billionaire work with us?
+
+260
+00:20:36,402 --> 00:20:39,113
+Just get him into Number 10
+and let me work on him.
+
+261
+00:20:39,196 --> 00:20:40,614
+Yes. ma'am.
+Go on.
+
+262
+00:20:43,534 --> 00:20:44,785
+Oh, God, now what?
+
+263
+00:20:45,327 --> 00:20:46,888
+There's been another attack,
+Prime Minister.
+
+264
+00:20:46,912 --> 00:20:48,247
+Air Traffic Control.
+Oh!
+
+265
+00:20:48,914 --> 00:20:51,792
+Someone's rerouted every
+flight in Europe to Luton.
+
+266
+00:20:51,917 --> 00:20:54,104
+For God's sake, tell me the
+agent you've got in the field
+
+267
+00:20:54,128 --> 00:20:55,838
+is making some progress?
+
+268
+00:21:05,305 --> 00:21:08,308
+So, how are we gonna
+findthelocafion of that yacht, sir?
+
+269
+00:21:08,434 --> 00:21:11,770
+Very easily, Bough.
+We ring MI7.
+
+270
+00:21:16,024 --> 00:21:19,361
+HeHo, heHo? Yes, I need the
+location of a boat called...
+
+271
+00:21:23,657 --> 00:21:26,827
+Hello? Hello, yes.
+A boat called the Dot Calm.
+
+272
+00:21:27,536 --> 00:21:29,705
+Yes, it's a play
+on words. Yeah.
+
+273
+00:21:30,038 --> 00:21:31,039
+Where?
+
+274
+00:21:37,880 --> 00:21:39,715
+Looks about
+half a mile out, sir.
+
+275
+00:21:40,757 --> 00:21:43,010
+Do we wanna try
+and swim it or...
+
+276
+00:21:43,135 --> 00:21:46,555
+No, Bough. This is a job for
+the shoebox inflatable.
+
+277
+00:21:46,680 --> 00:21:48,307
+No, don't open it
+in the car, sir!
+
+278
+00:21:54,813 --> 00:21:57,816
+Can you reach your door handle?
+
+279
+00:22:00,235 --> 00:22:01,820
+No, sir.
+
+280
+00:22:02,321 --> 00:22:04,656
+I'll try my side.
+
+281
+00:22:22,049 --> 00:22:26,053
+Right, Bough, our aim is to get
+on board without anyone noticing.
+
+282
+00:22:26,595 --> 00:22:28,263
+And how are we gonna do it?
+
+283
+00:22:28,472 --> 00:22:30,849
+Magnetic boots.
+Brilliant, sir.
+
+284
+00:22:31,725 --> 00:22:33,143
+Simple mechanism.
+
+285
+00:22:33,268 --> 00:22:36,396
+Left switch activates left boot.
+Right switch activates right.
+
+286
+00:22:37,105 --> 00:22:38,941
+Okay, let's go.
+
+287
+00:22:53,830 --> 00:22:59,336
+Remember, the absolutely vital
+element of this mission is surprise.
+
+288
+00:23:21,024 --> 00:23:22,877
+Now, you have to get up
+pretty early in the morning
+
+289
+00:23:22,901 --> 00:23:25,028
+to outwit British Intelligence.
+
+290
+00:23:31,201 --> 00:23:32,286
+Quick!
+
+291
+00:23:39,459 --> 00:23:41,295
+Good evening, gentlemen.
+
+292
+00:23:42,588 --> 00:23:44,590
+Shall we start with your names?
+
+293
+00:23:45,716 --> 00:23:48,677
+Clearly you have no idea
+who you're dealing with.
+
+294
+00:23:49,678 --> 00:23:52,014
+That's why I'm starting
+with your names.
+
+295
+00:23:52,556 --> 00:23:54,433
+Actually, would you mind
+coming down here?
+
+296
+00:23:54,558 --> 00:23:57,227
+It's really hard to have
+a conversation like this.
+
+297
+00:23:58,604 --> 00:24:00,272
+I have a better idea.
+
+298
+00:24:07,946 --> 00:24:09,656
+It's no good,
+it won't move, sir.
+
+299
+00:24:10,449 --> 00:24:12,367
+We'll see about that.
+
+300
+00:24:12,492 --> 00:24:14,828
+Low-intensity
+exploding cotton bud.
+
+301
+00:24:18,665 --> 00:24:21,209
+That's quite a powerful charge
+for such a small space, sir.
+
+302
+00:24:21,293 --> 00:24:22,711
+Oh, nonsense.
+
+303
+00:24:24,963 --> 00:24:27,132
+There will just be a slight pop.
+
+304
+00:24:35,140 --> 00:24:38,100
+Shall we locate the hold and
+look for the source of that signal?
+
+305
+00:24:38,143 --> 00:24:42,147
+I think we should locate the hold
+and look for the source of that signal!
+
+306
+00:24:45,484 --> 00:24:46,652
+Come on!
+
+307
+00:24:58,538 --> 00:25:01,041
+I'd say we have
+our villain, Bough!
+
+308
+00:25:01,166 --> 00:25:03,335
+You need to keep
+your voice down, sir.
+
+309
+00:25:04,211 --> 00:25:06,213
+And we're not going to lose him.
+
+310
+00:25:19,726 --> 00:25:21,978
+Hand me the sherbet fountain.
+
+311
+00:25:24,481 --> 00:25:27,484
+Three sucks and the location
+transmitter is activated.
+
+312
+00:25:27,567 --> 00:25:31,363
+This gin palace will show up
+as a hostile from 30,000 feet.
+
+313
+00:25:31,905 --> 00:25:32,948
+Hmm.
+
+314
+00:25:39,830 --> 00:25:42,666
+This is now an enemy target.
+
+315
+00:25:48,088 --> 00:25:49,756
+Aniseed balls.
+
+316
+00:26:04,855 --> 00:26:08,108
+If you'd wanted to kill me, you
+would have already done so.
+
+317
+00:26:11,528 --> 00:26:13,363
+Till we meet again.
+
+318
+00:26:21,496 --> 00:26:22,664
+Ow!
+
+319
+00:26:27,252 --> 00:26:29,546
+Well, that was sooner
+than I expected.
+
+320
+00:26:33,383 --> 00:26:36,470
+Ow, ow, ow, ow, ow.
+
+321
+00:26:40,015 --> 00:26:41,892
+<i>Who do you
+think she is, sir?</i>
+
+322
+00:26:41,975 --> 00:26:44,644
+Well, if she's not
+the owner of that yacht,
+
+323
+00:26:44,728 --> 00:26:46,188
+then she knows who is.
+
+324
+00:26:47,314 --> 00:26:49,816
+Either way, she's the key
+to this case.
+
+325
+00:26:52,152 --> 00:26:55,197
+Is it true you were teaching,
+sir? Before all this blew up?
+
+326
+00:26:56,490 --> 00:26:58,742
+If by "teaching" you mean
+
+327
+00:26:58,867 --> 00:27:03,830
+scouting for potential intelligence
+operatives then yes, I was.
+
+328
+00:27:03,914 --> 00:27:04,998
+Hmm.
+
+329
+00:27:05,081 --> 00:27:09,753
+I actually got married, sir.
+I don't know if you heard.
+
+330
+00:27:11,338 --> 00:27:12,339
+No.
+
+331
+00:27:13,006 --> 00:27:14,341
+Hmm.
+
+332
+00:27:14,549 --> 00:27:16,134
+Yeah, Lydia.
+
+333
+00:27:16,218 --> 00:27:17,260
+Lovely girl.
+
+334
+00:27:21,014 --> 00:27:23,683
+You never think about getting
+hitched yourself, sir?
+
+335
+00:27:24,935 --> 00:27:29,439
+This is no life for a married man, Bough.
+The danger, the constant travel.
+
+336
+00:27:29,523 --> 00:27:30,607
+Here you go, sir.
+
+337
+00:27:30,690 --> 00:27:32,692
+More Lydia's life
+than mine, sir.
+
+338
+00:27:34,152 --> 00:27:35,445
+She's in the Navy, you see.
+
+339
+00:27:36,404 --> 00:27:37,572
+What, as a cook?
+
+340
+00:27:38,406 --> 00:27:41,618
+Or some kind of seagoing
+secretary or...
+
+341
+00:27:41,701 --> 00:27:44,579
+Oh, no, sir. She's the captain
+of a nuclear submarine.
+
+342
+00:27:45,914 --> 00:27:47,249
+Oh, right.
+
+343
+00:27:49,668 --> 00:27:52,420
+Do you think we should get some
+petrol for the Aston, sir?
+
+344
+00:27:53,880 --> 00:27:58,134
+No. An Aston Martin is
+surprisingly economical, Bough.
+
+345
+00:28:00,178 --> 00:28:03,181
+Besides, it looks like
+we're in business.
+
+346
+00:28:17,237 --> 00:28:18,405
+Come on.
+
+347
+00:28:25,620 --> 00:28:27,581
+Looks like
+an electric car, sir.
+
+348
+00:28:27,664 --> 00:28:30,125
+Yes, and sounds like
+a nose hair trimmer.
+
+349
+00:28:32,252 --> 00:28:33,837
+A bunch
+of triple-A batteries
+
+350
+00:28:33,920 --> 00:28:36,548
+is no match for old-fashioned
+British horsepower.
+
+351
+00:28:41,678 --> 00:28:42,998
+<i>NOfllmCP 720252
+MflMPEZO flcmmzyzd</i>
+
+352
+00:28:58,069 --> 00:29:01,448
+Look at her cornering. Seems so
+effortless, doesn't it, sir?
+
+353
+00:29:40,820 --> 00:29:42,405
+Arm the missile.
+
+354
+00:29:42,489 --> 00:29:43,615
+The what?
+
+355
+00:29:43,698 --> 00:29:45,951
+The missile, Bough, the one
+with the tear gas warhead.
+
+356
+00:29:46,034 --> 00:29:48,578
+But they're just cyclists, sir.
+We'll get past in a minute.
+
+357
+00:29:48,662 --> 00:29:49,902
+They're French cyclists, Bough,
+
+358
+00:29:49,955 --> 00:29:52,666
+and they're obstructing
+Her Majesty's Secret Service.
+
+359
+00:30:00,507 --> 00:30:01,841
+Wiper stalk
+is armed, sir.
+
+360
+00:30:11,142 --> 00:30:12,143
+<i>Sorry.</i>
+
+361
+00:30:12,602 --> 00:30:14,896
+<i>Terribly sorry.
+We do apologize.</i>
+
+362
+00:30:15,021 --> 00:30:17,190
+<i>Stop it, Bough,
+you'll only encourage them.</i>
+
+363
+00:30:32,706 --> 00:30:35,375
+What are we gonna do now, sir?
+Patience. Bough.
+
+364
+00:30:35,917 --> 00:30:38,837
+Driving like that, her battery
+will be dead any moment.
+
+365
+00:30:38,962 --> 00:30:42,215
+And she'll roll
+to a humiliating stop.
+
+366
+00:31:01,484 --> 00:31:05,071
+Bough, it is your job to
+keep an eye onthefuelgauge.
+
+367
+00:31:12,746 --> 00:31:14,914
+Very impressive driving, Mr...
+
+368
+00:31:16,624 --> 00:31:17,709
+Golightly.
+
+369
+00:31:18,752 --> 00:31:20,879
+Basil Golightly.
+
+370
+00:31:23,256 --> 00:31:25,884
+And you're rather useful
+yourself, Miss...
+
+371
+00:31:26,551 --> 00:31:29,596
+Bhuletova. Ophelia Bhuletova.
+
+372
+00:31:29,763 --> 00:31:31,014
+Hmm.
+
+373
+00:31:31,097 --> 00:31:32,849
+And this is...
+
+374
+00:31:33,224 --> 00:31:34,225
+Colin.
+
+375
+00:31:35,852 --> 00:31:38,021
+I thought we were
+using fake names.
+
+376
+00:31:38,938 --> 00:31:40,690
+That is a fake name.
+
+377
+00:31:43,526 --> 00:31:44,861
+Oh, right.
+
+378
+00:31:46,863 --> 00:31:48,740
+Yes, this is Colin,
+
+379
+00:31:49,991 --> 00:31:51,117
+and I'm...
+
+380
+00:31:55,288 --> 00:31:56,414
+"Dasil."
+
+381
+00:31:56,873 --> 00:31:57,874
+<i>D as“ .</i>
+
+382
+00:31:58,291 --> 00:31:59,292
+Basil.
+
+383
+00:32:00,543 --> 00:32:02,754
+Well, Basil,
+
+384
+00:32:03,379 --> 00:32:05,059
+maybe there is a simpler way
+of doing this.
+
+385
+00:32:05,757 --> 00:32:07,175
+Over a drink perhaps?
+
+386
+00:32:07,258 --> 00:32:09,636
+Well, that would be lovely.
+
+387
+00:32:09,719 --> 00:32:14,390
+- Shall we say the bar at the Hotel
+de Paris in Cagnes-sur-Mer? -00?
+
+388
+00:32:14,474 --> 00:32:16,559
+Mmm. It's a date.
+
+389
+00:32:21,940 --> 00:32:22,941
+Well,
+
+390
+00:32:23,525 --> 00:32:27,695
+I think my "running out of
+fuel" ruse worked pretty well.
+
+391
+00:32:28,113 --> 00:32:29,322
+Mmm.
+
+392
+00:32:33,076 --> 00:32:34,160
+What?
+
+393
+00:32:34,327 --> 00:32:36,764
+Er, junior doctors. They've
+confirmed they are going on strike
+
+394
+00:32:36,788 --> 00:32:38,628
+and the tube drivers
+are coming out in support.
+
+395
+00:32:38,665 --> 00:32:41,560
+Oh, God. Leader of the Opposition, has
+he come round from his heart surgery?
+
+396
+00:32:41,584 --> 00:32:42,627
+Yes, Prime Minister.
+
+397
+00:32:42,710 --> 00:32:45,839
+Oh, Jesus Christ, when will something
+go right for me? What do you want?
+
+398
+00:32:46,631 --> 00:32:48,675
+They've hit us again,
+Prime Minister.
+
+399
+00:32:49,217 --> 00:32:51,719
+Huh? Hacked into the Central
+Traffic Control System.
+
+400
+00:32:52,011 --> 00:32:55,431
+Yes, they've turned every
+traffic light in London to red.
+
+401
+00:32:58,059 --> 00:32:59,686
+Where's my bloody drink?
+
+402
+00:33:00,436 --> 00:33:02,814
+You've got to be joking?
+Vodka tonic, no ice, no tonic.
+
+403
+00:33:02,897 --> 00:33:05,441
+Yes. ma'am. Oh. and Mr. Volta
+has arrived. ma'am.
+
+404
+00:33:09,946 --> 00:33:12,574
+Mr. Volta,
+welcome to Downing Street.
+
+405
+00:33:12,699 --> 00:33:15,785
+I have read so much
+about this wonderful building.
+
+406
+00:33:15,910 --> 00:33:19,414
+Is this the stone triple staircase
+designed by William Kent?
+
+407
+00:33:19,539 --> 00:33:22,709
+Um, yes, it probably is.
+I can't swear to it.
+
+408
+00:33:22,834 --> 00:33:25,378
+- Can we do a quick...
+<i>- Needs Photoshop.</i>
+
+409
+00:33:25,461 --> 00:33:27,964
+Oh!
+This way. Hmm.
+
+410
+00:33:28,089 --> 00:33:29,883
+I am horribly late,
+I do apologize.
+
+411
+00:33:30,008 --> 00:33:32,802
+It's the traffic, it's the one
+thing I don't love about London.
+
+412
+00:33:32,927 --> 00:33:35,346
+Yes, well, I must admit
+we are having a slight problem
+
+413
+00:33:35,430 --> 00:33:37,348
+with the lights at the moment.
+Nothing major.
+
+414
+00:33:37,473 --> 00:33:40,476
+If you wanted, I could take a
+look? It is kind of what I do.
+
+415
+00:33:40,560 --> 00:33:43,188
+I think it's actually a little
+bit more complex than...
+
+416
+00:33:43,313 --> 00:33:46,691
+Xander, get a web address for
+London's traffic control center.
+
+417
+00:33:47,358 --> 00:33:51,070
+<i>Here is the login page, Jason.
+Do you have a password?</i>
+
+418
+00:33:53,531 --> 00:33:54,699
+Um...
+
+419
+00:33:57,827 --> 00:34:00,663
+I won't tell if you won't.
+Right you are.
+
+420
+00:34:01,956 --> 00:34:05,585
+<i>Bypassing security.
+Security bypassed.</i>
+
+421
+00:34:05,668 --> 00:34:06,669
+Oh, that's terrific.
+
+422
+00:34:08,046 --> 00:34:11,216
+Someone is hacking you.
+Oh, I don't think so.
+
+423
+00:34:11,549 --> 00:34:15,386
+Denied service attack.
+Yeah, primitive but effective.
+
+424
+00:34:16,512 --> 00:34:19,891
+You know what we could try,
+rerouting all service requests
+
+425
+00:34:19,974 --> 00:34:22,101
+to our server farm in Nevada.
+
+426
+00:34:23,102 --> 00:34:24,395
+Um...
+
+427
+00:34:25,647 --> 00:34:27,398
+<i>Rerouting, Jason.</i>
+
+428
+00:34:27,482 --> 00:34:29,234
+<i>Rerouting complete.</i>
+
+429
+00:34:33,529 --> 00:34:35,281
+Crikey.
+
+430
+00:34:36,908 --> 00:34:39,911
+So, what was it you wanted
+to talk to me about?
+
+431
+00:34:40,245 --> 00:34:42,372
+You, Jason.
+
+432
+00:34:43,539 --> 00:34:44,874
+Get out.
+
+433
+00:34:44,999 --> 00:34:46,542
+I want to talk about you.
+
+434
+00:35:01,015 --> 00:35:03,893
+Excellent, Bough.
+Nearly there.
+
+435
+00:35:04,769 --> 00:35:06,229
+Nearly there.
+
+436
+00:35:06,354 --> 00:35:09,357
+This is actually
+a really nice hotel, Bough.
+
+437
+00:35:10,108 --> 00:35:12,986
+I'm turning to the right.
+
+438
+00:35:25,999 --> 00:35:29,961
+Shall one of us keep Miss Bhuletova busy
+while the other searches her room, sir?
+
+439
+00:35:30,169 --> 00:35:34,173
+Good idea, Bough.
+Alert me if you find anything.
+
+440
+00:35:56,321 --> 00:35:57,488
+Mr. Golightly.
+
+441
+00:36:00,491 --> 00:36:01,492
+Oh...
+
+442
+00:36:02,160 --> 00:36:03,202
+Indeed.
+
+443
+00:36:04,203 --> 00:36:07,290
+I thought perhaps you weren't coming.
+On the contrary.
+
+444
+00:36:07,457 --> 00:36:10,084
+Wild horses couldn't
+keep me away.
+
+445
+00:36:10,835 --> 00:36:11,961
+<i>Madame? Monsieur?</i>
+
+446
+00:36:12,503 --> 00:36:14,422
+Evening. What would you like?
+
+447
+00:36:15,131 --> 00:36:18,760
+I'm feeling a little homesick tonight.
+I'll have 3 Moscow Mule.
+
+448
+00:36:22,305 --> 00:36:24,640
+And I'll have a London...
+
+449
+00:36:24,974 --> 00:36:26,976
+Lemming, please.
+
+450
+00:36:28,519 --> 00:36:30,355
+I'm not sure, what...
+
+451
+00:36:31,647 --> 00:36:34,984
+It's, uh, gin, vodka,
+
+452
+00:36:36,444 --> 00:36:37,779
+armagnac,
+
+453
+00:36:38,529 --> 00:36:39,822
+sherry,
+
+454
+00:36:40,490 --> 00:36:42,992
+with just a little bit
+of Parmesan.
+
+455
+00:36:49,165 --> 00:36:52,877
+So, what brings you to the
+South of France, Miss...
+
+456
+00:36:52,960 --> 00:36:54,379
+Bhilli... Bholly...
+
+457
+00:36:54,462 --> 00:36:55,671
+Bhuletova.
+
+458
+00:36:56,172 --> 00:36:57,548
+Bhuletova.
+
+459
+00:36:57,882 --> 00:36:59,675
+I'm just visiting
+a friend of mine.
+
+460
+00:36:59,759 --> 00:37:00,885
+Hmm.
+
+461
+00:37:03,930 --> 00:37:07,183
+And would this friend
+be the owner of the Dot <i>Calm?</i>
+
+462
+00:37:08,351 --> 00:37:09,435
+Hmm.
+
+463
+00:37:09,519 --> 00:37:10,728
+Yes, he would.
+
+464
+00:37:16,526 --> 00:37:18,361
+And what about you,
+
+465
+00:37:18,444 --> 00:37:19,445
+Basil?
+
+466
+00:37:19,612 --> 00:37:21,948
+Oh, I'm just here on business.
+
+467
+00:37:22,198 --> 00:37:25,201
+Although, it's rapidly
+turning into pleasure.
+
+468
+00:37:29,288 --> 00:37:31,040
+Ooh! I love these.
+
+469
+00:37:36,254 --> 00:37:37,463
+They're really hot.
+
+470
+00:37:46,514 --> 00:37:48,182
+Are you all right?
+
+471
+00:37:48,599 --> 00:37:49,934
+Yes, fine.
+
+472
+00:37:58,985 --> 00:38:00,027
+Hmm.
+
+473
+00:38:06,492 --> 00:38:07,577
+Cheers.
+
+474
+00:38:08,035 --> 00:38:11,205
+I'm not sure I've ever met a
+man quite like you, Basil.
+
+475
+00:38:12,206 --> 00:38:14,542
+Let me clear up
+the uncertainty for you.
+
+476
+00:38:15,168 --> 00:38:16,544
+You haven't.
+
+477
+00:38:30,766 --> 00:38:35,188
+I'm sorry, Basil. I have to get
+up really early tomorrow morning.
+
+478
+00:38:35,563 --> 00:38:37,106
+Oh, that's a shame.
+
+479
+00:38:47,658 --> 00:38:49,327
+How did you get on, sir?
+
+480
+00:38:49,452 --> 00:38:52,121
+Oh, gosh, what a wonderful
+woman, Bough. Wonderful.
+
+481
+00:38:52,246 --> 00:38:53,247
+Right.
+
+482
+00:38:53,372 --> 00:38:55,249
+Charming. Intelligent.
+
+483
+00:38:55,333 --> 00:38:59,045
+Lovely sense of humor. And
+obviously entirely innocent.
+
+484
+00:38:59,170 --> 00:39:02,298
+Although, I broke into her room and
+she does have three passports, sir.
+
+485
+00:39:02,381 --> 00:39:05,218
+Romanian, Bulgarian, Russian.
+Different name in each.
+
+486
+00:39:05,843 --> 00:39:08,221
+So she's been married
+to three different people.
+
+487
+00:39:08,346 --> 00:39:10,348
+Not unusual in this day
+and age, Bough.
+
+488
+00:39:10,473 --> 00:39:13,351
+And I also found some garroting
+wire and two boxes of ammunition.
+
+489
+00:39:13,434 --> 00:39:18,272
+Well, single woman, traveling
+alone, you can't be too careful.
+
+490
+00:39:19,440 --> 00:39:22,401
+You don't think
+she might be a spy, sir?
+
+491
+00:39:22,860 --> 00:39:24,779
+A spy?
+
+492
+00:39:25,530 --> 00:39:28,282
+I think I know
+what a spy looks like, Bough.
+
+493
+00:39:28,366 --> 00:39:30,034
+<i>NOfllmCP 720252
+MflMPEZO flcmmzyzd</i>
+
+494
+00:40:14,412 --> 00:40:15,746
+Oh.
+
+495
+00:42:29,088 --> 00:42:30,381
+Oh!
+
+496
+00:42:59,118 --> 00:43:00,244
+Ah.
+
+497
+00:43:25,728 --> 00:43:26,729
+Sir?
+
+498
+00:43:27,021 --> 00:43:28,022
+Sir!
+
+499
+00:43:29,356 --> 00:43:31,358
+I just got off the phone
+to P in London.
+
+500
+00:43:31,442 --> 00:43:33,003
+He's found out who the
+owner of that yaoht is.
+
+501
+00:43:33,027 --> 00:43:34,028
+Jason Volta.
+
+502
+00:43:34,111 --> 00:43:36,322
+The world's most powerful
+Internet billionaire, sir!
+
+503
+00:43:36,405 --> 00:43:37,782
+And he's in London, right now.
+
+504
+00:43:37,865 --> 00:43:41,285
+The Prime Minister is personally
+negotiating a trade deal with him.
+
+505
+00:43:42,286 --> 00:43:43,871
+Well, what are we waiting for?
+
+506
+00:44:15,110 --> 00:44:17,947
+Do you think we might
+slow down a little, sir?
+
+507
+00:44:18,739 --> 00:44:19,824
+What?
+
+508
+00:44:21,992 --> 00:44:23,410
+Never mind!
+
+509
+00:44:29,208 --> 00:44:31,460
+<i>With what appears
+to be another cyber attack,</i>
+
+510
+00:44:31,544 --> 00:44:32,938
+<i>pressure is mounting
+on the Prime Minister.</i>
+
+511
+00:44:32,962 --> 00:44:34,922
+Every train in England?
+Yes. sir.
+
+512
+00:44:35,005 --> 00:44:38,092
+They're all trying to terminate
+at Bristol Temple Meads.
+
+513
+00:44:41,303 --> 00:44:42,346
+Morning, sir!
+
+514
+00:44:42,429 --> 00:44:44,515
+You see this. English?
+Yes!
+
+515
+00:44:45,432 --> 00:44:46,433
+Please.
+
+516
+00:44:47,226 --> 00:44:48,561
+Ooh!
+
+517
+00:44:49,144 --> 00:44:51,605
+Tell me you've got something I
+can take to the Prime Minister.
+
+518
+00:44:51,689 --> 00:44:54,692
+Would the name of the man
+responsible do, sir?
+
+519
+00:44:55,025 --> 00:44:56,610
+Excellent, English, yes.
+
+520
+00:44:57,236 --> 00:44:59,530
+It's Jason...
+
+521
+00:45:09,707 --> 00:45:12,167
+Volta, sir. Jason Volta.
+
+522
+00:45:12,585 --> 00:45:13,586
+What?
+
+523
+00:45:13,752 --> 00:45:16,338
+You're accusing the PM's
+knight in shining armor?
+
+524
+00:45:16,422 --> 00:45:18,257
+I'd need hard evidence.
+
+525
+00:45:25,389 --> 00:45:26,724
+Which...
+
+526
+00:45:27,474 --> 00:45:29,977
+is why Agent English
+is proposing
+
+527
+00:45:30,060 --> 00:45:32,605
+a penetration of Volta's
+country estate in Surrey.
+
+528
+00:45:32,813 --> 00:45:37,067
+Yes, yes, yes, yes...
+
+529
+00:45:37,151 --> 00:45:39,486
+Well, do what you have
+to do, English.
+
+530
+00:45:39,862 --> 00:45:41,864
+But for God's sake,
+be discreet about it.
+
+531
+00:45:42,072 --> 00:45:44,116
+Oh! Oh.
+
+532
+00:45:44,199 --> 00:45:45,242
+Good.
+
+533
+00:45:45,326 --> 00:45:46,410
+Oh. Oh.
+
+534
+00:45:52,666 --> 00:45:54,376
+"Virtual reality"?
+
+535
+00:45:54,501 --> 00:45:55,502
+That's right, sir.
+
+536
+00:45:55,586 --> 00:45:57,946
+P's built a computer model of
+the inside of Volta's mansion.
+
+537
+00:45:58,005 --> 00:46:02,968
+When you put on this headset, it will look
+and feel as if you are inside the house.
+
+538
+00:46:03,052 --> 00:46:06,513
+You'll be able to open and close
+doors, walk up and down staircases,
+
+539
+00:46:06,597 --> 00:46:09,391
+completely familiarize
+yourself with its layout.
+
+540
+00:46:09,475 --> 00:46:12,728
+This floor moves in any
+direction. 80 you can walk...
+
+541
+00:46:13,979 --> 00:46:17,399
+You can walk as far as you
+want in the virtual world
+
+542
+00:46:18,150 --> 00:46:20,611
+without ever actually
+leaving this room.
+
+543
+00:46:20,986 --> 00:46:22,029
+One thing though, sir.
+
+544
+00:46:23,238 --> 00:46:24,949
+The experience can be
+very disorientating.
+
+545
+00:46:25,032 --> 00:46:26,241
+It's completely immersive
+
+546
+00:46:26,325 --> 00:46:29,370
+and some people lose all track
+of their actual surroundings.
+
+547
+00:46:29,453 --> 00:46:32,665
+I think we can pretty much
+guarantee that's not gonna happen.
+
+548
+00:46:32,998 --> 00:46:35,334
+I'll just need you to sign the
+health and safety releases.
+
+549
+00:46:35,668 --> 00:46:38,379
+Would you excuse
+me while I find an iPad.
+
+550
+00:46:39,380 --> 00:46:42,675
+Oh, go with him, Bough. If we don't
+ohivvy him along we'll be here all day.
+
+551
+00:46:48,722 --> 00:46:49,974
+Hmm.
+
+552
+00:47:10,160 --> 00:47:11,328
+Ah.
+
+553
+00:47:11,745 --> 00:47:13,865
+Amrmonflflfvozzw _<_CM_O
+_U_l><_an OZ Im>_U_U_l_OZ_mmv
+
+554
+00:47:33,392 --> 00:47:34,393
+Watch out!
+
+555
+00:48:02,671 --> 00:48:04,465
+<i>Door Closing.</i>
+
+556
+00:48:05,090 --> 00:48:06,425
+<i>Going down.</i>
+
+557
+00:49:07,152 --> 00:49:08,320
+Hey!
+
+558
+00:49:23,794 --> 00:49:25,688
+I'm sorry, sir, but you're
+going to have to leave.
+
+559
+00:49:25,712 --> 00:49:26,755
+Ow.
+
+560
+00:49:27,047 --> 00:49:28,090
+Ow.
+
+561
+00:49:51,738 --> 00:49:54,867
+So, we'll shortly
+be arriving at Admiralty House.
+
+562
+00:49:54,992 --> 00:49:58,912
+And, er, that actually used to be
+Oliver Cromwell's own house. Um...
+
+563
+00:50:00,706 --> 00:50:02,040
+Uh...
+
+564
+00:50:02,166 --> 00:50:05,669
+And then we'll be going
+to Horse Guards Parade.
+
+565
+00:50:08,422 --> 00:50:10,215
+Perhaps you'd like
+to sit down, sir?
+
+566
+00:50:12,968 --> 00:50:14,845
+Hey, whoa!
+
+567
+00:50:19,474 --> 00:50:20,893
+I've got them!
+
+568
+00:50:25,564 --> 00:50:29,526
+However, the agent we have on this mission
+is confident he's making major progress.
+
+569
+00:50:29,610 --> 00:50:32,404
+And, uh, yes, we have a potential
+suspect, he's been identified.
+
+570
+00:50:32,905 --> 00:50:36,909
+And further covert
+investigations are now ongoing.
+
+571
+00:50:38,202 --> 00:50:39,411
+Yes, quite.
+
+572
+00:50:39,661 --> 00:50:42,581
+So I expect to have more
+to announce on this front
+
+573
+00:50:44,333 --> 00:50:45,500
+shortly.
+
+574
+00:50:59,389 --> 00:51:00,557
+Oh.
+
+575
+00:51:01,433 --> 00:51:02,434
+Sir?
+
+576
+00:51:02,517 --> 00:51:03,644
+Mmm?
+
+577
+00:51:03,727 --> 00:51:06,563
+Is everything all right. sir?
+Yes. I've done it, Bough.
+
+578
+00:51:06,813 --> 00:51:09,566
+Child's play. Don't know what
+all the fuss was about.
+
+579
+00:51:23,163 --> 00:51:25,165
+<i>Pleasure to see you again,
+Prime Minister.</i>
+
+580
+00:51:26,792 --> 00:51:29,711
+It's a hologram. Apparently
+you just speak to it normally.
+
+581
+00:51:31,380 --> 00:51:33,548
+The pleasure's all mine.
+
+582
+00:51:33,632 --> 00:51:37,511
+Hate to rush you, but was there
+something in particular you needed?
+
+583
+00:51:37,594 --> 00:51:40,264
+Actually, I was just calling
+really to see
+
+584
+00:51:40,347 --> 00:51:44,393
+if you had had a chance
+to think things over.
+
+585
+00:51:44,643 --> 00:51:45,644
+<i>I have.</i>
+
+586
+00:51:48,146 --> 00:51:51,733
+But the thing is, Fiona, I just don't
+really do other people's security.
+
+587
+00:51:51,817 --> 00:51:55,195
+<i>Not that I don't want to. But
+your infrastructure is old.</i>
+
+588
+00:51:55,529 --> 00:51:57,257
+Plus the only way I could keep
+you secure in the meantime
+
+589
+00:51:57,281 --> 00:52:00,826
+would be by storing all your
+data on my own servers.
+
+590
+00:52:00,909 --> 00:52:03,036
+<i>Obviously, that would be...
+Yes. Jason.</i>
+
+591
+00:52:03,120 --> 00:52:07,082
+What I really want to do is announce
+this tie-up at the G12 meeting.
+
+592
+00:52:07,958 --> 00:52:10,294
+<i>Do we have a deal?</i>
+
+593
+00:52:19,469 --> 00:52:21,138
+Good luck, sir.
+
+594
+00:52:39,823 --> 00:52:40,824
+Hey.
+
+595
+00:52:40,991 --> 00:52:41,992
+Sir?
+
+596
+00:52:42,075 --> 00:52:44,578
+I said to get the chopper ready.
+Right there.
+
+597
+00:52:44,661 --> 00:52:45,871
+Sir. Right away, sir.
+
+598
+00:52:46,038 --> 00:52:47,247
+Thank you.
+
+599
+00:52:47,456 --> 00:52:49,041
+- Tyler, come in.
+<i>- Copy.</i>
+
+600
+00:52:49,458 --> 00:52:51,418
+Tyler, can you prepare
+the chopper now?
+
+601
+00:52:51,543 --> 00:52:54,338
+<i>We'll have everything ready
+for you in a couple of minutes.</i>
+
+602
+00:53:25,660 --> 00:53:28,663
+We can't keep meeting
+like this, Mr. Golightly.
+
+603
+00:53:28,747 --> 00:53:30,082
+Oh, yes.
+
+604
+00:53:30,165 --> 00:53:33,126
+Or do you want to end this Charade
+and tell me your real name?
+
+605
+00:53:37,881 --> 00:53:41,760
+There's so much you don't understand about
+this world you've got caught up in.
+
+606
+00:53:42,844 --> 00:53:46,223
+Spare me the idiot act.
+You're British Secret Service.
+
+607
+00:53:47,432 --> 00:53:51,186
+Impressive work in France, by the way.
+When did you realize I was a spy, too?
+
+608
+00:53:52,687 --> 00:53:55,982
+Oh, pretty much straight away.
+
+609
+00:53:56,858 --> 00:53:57,901
+Hmm.
+
+610
+00:54:00,278 --> 00:54:04,282
+I've spent two years undercover.
+Simple operation until you showed up.
+
+611
+00:54:04,491 --> 00:54:06,243
+And I like
+to keep things simple.
+
+612
+00:54:07,119 --> 00:54:08,995
+"Simple" is my middle name.
+
+613
+00:54:13,250 --> 00:54:15,127
+It would seem you've got
+a choice to make.
+
+614
+00:54:17,754 --> 00:54:21,675
+Temporary suspension ofhosfinfies?
+A short-term partnership?
+
+615
+00:54:30,642 --> 00:54:31,810
+Hmm.
+
+616
+00:54:31,977 --> 00:54:34,938
+Politicians are even more
+gullible than venture capitalists.
+
+617
+00:54:35,021 --> 00:54:36,022
+<i>That is correct.</i>
+
+618
+00:54:36,106 --> 00:54:37,386
+Get me a copy
+of the target list.
+
+619
+00:54:37,649 --> 00:54:39,985
+We'll hit them once more
+just to be on the safe side.
+
+620
+00:54:40,527 --> 00:54:43,655
+Give me your phone.
+You don't have a phone?
+
+621
+00:54:43,780 --> 00:54:46,158
+A phone will give anyone
+your precise location.
+
+622
+00:54:46,241 --> 00:54:48,910
+And yet they're so useful
+for making phone calls.
+
+623
+00:54:48,994 --> 00:54:51,371
+Excellent.
+I'm not phoning anyone.
+
+624
+00:54:52,122 --> 00:54:55,041
+I'm gathering evidence.
+
+625
+00:54:56,918 --> 00:55:00,755
+<i>The target list, Jason. Four
+iconic central London landmarks.</i>
+
+626
+00:55:00,881 --> 00:55:02,966
+<i>Make your selection.
+Number three.</i>
+
+627
+00:55:03,091 --> 00:55:04,926
+<i>The London Eye.</i>
+
+628
+00:55:06,178 --> 00:55:11,391
+<i>This cyber attack could potentially
+impact 16,000 visitors.</i>
+
+629
+00:55:16,730 --> 00:55:19,232
+I found him snooping
+around upstairs.
+
+630
+00:55:20,317 --> 00:55:22,235
+And who are you exactly?
+
+631
+00:55:22,360 --> 00:55:23,820
+I'm not telling you anything.
+
+632
+00:55:23,904 --> 00:55:24,946
+Hmm.
+
+633
+00:55:25,989 --> 00:55:28,158
+<i>Face recognition
+software launched.</i>
+
+634
+00:55:28,492 --> 00:55:31,953
+<i>Johnny English is a geography
+teacher from Lincolnshire.</i>
+
+635
+00:55:32,412 --> 00:55:36,249
+Rather heavily armed for a lesson
+on European capitals, Mr. English.
+
+636
+00:55:38,752 --> 00:55:39,961
+Any thoughts, sweetheart?
+
+637
+00:55:40,962 --> 00:55:42,881
+He's British Intelligence.
+
+638
+00:55:44,174 --> 00:55:46,343
+And there you have it,
+two words that have
+
+639
+00:55:46,426 --> 00:55:49,346
+no right being
+in the same sentence together.
+
+640
+00:55:49,721 --> 00:55:52,724
+Do you really think
+I came here alone?
+
+641
+00:55:53,099 --> 00:55:56,394
+I have a team of crack
+operatives out there, right now,
+
+642
+00:55:56,478 --> 00:55:57,979
+just waiting to strike.
+
+643
+00:55:58,063 --> 00:55:59,356
+Uh-huh.
+
+644
+00:56:04,444 --> 00:56:05,487
+<i>Sir!</i>
+
+645
+00:56:08,698 --> 00:56:10,992
+What has happened
+to this country?
+
+646
+00:56:11,117 --> 00:56:13,828
+How is it possible
+that less than a century ago
+
+647
+00:56:13,912 --> 00:56:16,915
+the British Empire
+ruled a quarter of the globe
+
+648
+00:56:17,040 --> 00:56:20,627
+and now it's relying on someone
+
+649
+00:56:21,795 --> 00:56:24,214
+like you?
+
+650
+00:56:28,760 --> 00:56:29,803
+Hey! Stop!
+
+651
+00:56:31,137 --> 00:56:32,138
+Stop him?
+
+652
+00:56:46,069 --> 00:56:47,070
+Go.
+
+653
+00:56:55,537 --> 00:56:56,955
+- Close the gates.
+- Yes, sir.
+
+654
+00:57:07,841 --> 00:57:09,175
+Help! Stop!
+
+655
+00:57:09,259 --> 00:57:11,636
+Obstacle directly ahead,
+Mrs. Trattner.
+
+656
+00:57:11,761 --> 00:57:15,682
+Check your mirrors
+and bring the car to a stop.
+
+657
+00:57:18,018 --> 00:57:19,728
+Er, excuse me. Hey.
+
+658
+00:57:21,730 --> 00:57:22,731
+Thank you.
+
+659
+00:57:26,318 --> 00:57:27,319
+Drive!
+
+660
+00:57:29,613 --> 00:57:30,614
+Excuse me.
+
+661
+00:57:30,697 --> 00:57:32,508
+What... What
+do you think you're doing?
+
+662
+00:57:32,532 --> 00:57:35,118
+Excuse me! You are
+not a qualified instructor.
+
+663
+00:57:44,294 --> 00:57:46,546
+But what about my instructor?
+Turn left.
+
+664
+00:57:46,630 --> 00:57:47,672
+Oh.
+
+665
+00:57:48,548 --> 00:57:49,591
+Turn right.
+
+666
+00:57:54,012 --> 00:57:56,556
+For future reference,
+I'm on your left.
+
+667
+00:57:56,890 --> 00:58:00,393
+Please, stop.
+I can't do this anymore!
+
+668
+00:58:04,773 --> 00:58:06,358
+I can't see anything now!
+
+669
+00:58:06,858 --> 00:58:07,859
+Good.
+
+670
+00:58:19,537 --> 00:58:21,498
+When I say "go,"
+turn sharp right.
+
+671
+00:58:21,581 --> 00:58:22,791
+Uh-huh.
+
+672
+00:58:26,586 --> 00:58:28,838
+Three, two, one.
+
+673
+00:58:29,339 --> 00:58:30,340
+Go!
+
+674
+00:58:33,593 --> 00:58:35,512
+And straighten up,
+straighten up, straighten up.
+
+675
+00:58:35,595 --> 00:58:36,805
+And go!
+
+676
+00:58:37,597 --> 00:58:38,598
+Let's go, let's go.
+
+677
+00:58:47,399 --> 00:58:49,317
+Oh, nowjust bear left
+a little. Good.
+
+678
+00:58:49,734 --> 00:58:51,111
+Straighten up, straighten up.
+
+679
+00:58:55,573 --> 00:58:56,574
+Good!
+
+680
+00:59:00,704 --> 00:59:02,997
+Well, that was
+very good, Mrs. Trattner.
+
+681
+00:59:05,750 --> 00:59:07,961
+I think you made
+some real progress today.
+
+682
+00:59:09,546 --> 00:59:11,065
+<i>You're
+not hearing me, English.</i>
+
+683
+00:59:11,089 --> 00:59:14,151
+<i>Given the Prime Minister's new friendship
+with Volta, the situation has changed.</i>
+
+684
+00:59:14,175 --> 00:59:18,805
+But the facts haven't, sir. That
+attack is Volta's responsibility.
+
+685
+00:59:18,888 --> 00:59:21,349
+According to you, but not
+according to anyone else.
+
+686
+00:59:21,433 --> 00:59:22,851
+Is he here yet?
+
+687
+00:59:23,476 --> 00:59:25,854
+Good afternoon, Prime Minister.
+So, this is, uh...
+
+688
+00:59:26,104 --> 00:59:28,898
+English, Prime Minister.
+Johnny English.
+
+689
+00:59:29,190 --> 00:59:31,693
+VVhatexaofly do you have
+to say for yourself?
+
+690
+00:59:31,985 --> 00:59:33,737
+Rather a lot, actually.
+
+691
+00:59:34,028 --> 00:59:37,615
+However, men like me don't deal
+in prevarication, Prime Minister,
+
+692
+00:59:37,699 --> 00:59:39,367
+so let me get
+straight to the point.
+
+693
+00:59:39,451 --> 00:59:42,704
+Jason Volta is the man
+behind these attacks.
+
+694
+00:59:42,787 --> 00:59:45,373
+And I have the evidence
+to prove it.
+
+695
+00:59:46,416 --> 00:59:50,128
+I managed to record this
+inside Volta's country lair.
+
+696
+00:59:50,253 --> 00:59:51,755
+But I should warn you,
+Prime Minister,
+
+697
+00:59:51,880 --> 00:59:55,800
+that what you're about to see
+is evil incarnate.
+
+698
+00:59:57,802 --> 00:59:59,012
+Hmm.
+
+699
+01:00:01,222 --> 01:00:04,184
+<i>Here we are
+at Fifi's third birthday!</i>
+
+700
+01:00:04,267 --> 01:00:06,519
+<i>And it's a very exciting day!</i>
+
+701
+01:00:08,313 --> 01:00:11,065
+<i>Hip hip, hooray!
+Hip hip, hooray!</i>
+
+702
+01:00:12,108 --> 01:00:15,278
+<i>Happy birthday to you</i>
+
+703
+01:00:16,446 --> 01:00:20,283
+<i>Happy birthday to you</i>
+
+704
+01:00:21,659 --> 01:00:22,660
+Thank you.
+
+705
+01:00:23,119 --> 01:00:25,538
+Can I just ask,
+what is wrong with you?
+
+706
+01:00:26,831 --> 01:00:29,209
+The country is in a state
+of complete chaos.
+
+707
+01:00:29,292 --> 01:00:30,460
+The press is wetting itself,
+
+708
+01:00:30,543 --> 01:00:32,504
+and the only person
+capable of saving us
+
+709
+01:00:32,587 --> 01:00:34,839
+is the man you're accusing
+of high treason.
+
+710
+01:00:35,799 --> 01:00:39,093
+I was in the room myself when he
+gave the order, Prime Minister!
+
+711
+01:00:39,219 --> 01:00:40,428
+But there was a...
+
+712
+01:00:40,512 --> 01:00:42,198
+Do you know what I was
+in the room with, English?
+
+713
+01:00:42,222 --> 01:00:43,908
+Your file, which I've read,
+in its entirety,
+
+714
+01:00:43,932 --> 01:00:45,012
+and I have a few questions.
+
+715
+01:00:45,099 --> 01:00:46,643
+Did you or did you not burn
+
+716
+01:00:46,726 --> 01:00:49,187
+the Cote de Roc restaurant in
+Antibes to the ground?
+
+717
+01:00:49,270 --> 01:00:50,355
+Um...
+
+718
+01:00:50,438 --> 01:00:52,816
+And did you or did you not
+fire a guided missile
+
+719
+01:00:52,941 --> 01:00:54,567
+at a peloton of French cyclists?
+
+720
+01:00:55,109 --> 01:00:56,110
+Well...
+
+721
+01:00:56,236 --> 01:00:57,654
+Before commandeering
+an open-top bus
+
+722
+01:00:57,779 --> 01:00:59,906
+and tossing the tour guide
+off the top deck,
+
+723
+01:01:00,031 --> 01:01:02,343
+and then assaulting an 82-year-old
+grandmother in a sandwich shop
+
+724
+01:01:02,367 --> 01:01:04,619
+before battering the employee
+of said sandwich shop
+
+725
+01:01:04,702 --> 01:01:06,621
+with two organic
+sourdough baguettes?
+
+726
+01:01:07,747 --> 01:01:09,499
+Uh, I don't remember the...
+
+727
+01:01:09,624 --> 01:01:12,710
+Do you have any idea
+how hard it is to be me?
+
+728
+01:01:14,295 --> 01:01:15,922
+Hmm?
+
+729
+01:01:16,840 --> 01:01:18,842
+Do you have even
+the foggiest notion
+
+730
+01:01:18,967 --> 01:01:22,470
+of how virtually impossible
+it is to get anything done
+
+731
+01:01:22,595 --> 01:01:27,267
+in the face of events
+and facts and voters
+
+732
+01:01:27,392 --> 01:01:30,520
+and that tsunami of tosspots
+we call "the national press"?
+
+733
+01:01:30,645 --> 01:01:33,982
+Finally I get the chance to do
+something good for my country,
+
+734
+01:01:34,065 --> 01:01:35,316
+and what happens?
+
+735
+01:01:35,441 --> 01:01:38,027
+The universe sends me you.
+
+736
+01:01:39,779 --> 01:01:41,322
+Well, do you know what I say?
+
+737
+01:01:41,406 --> 01:01:44,325
+I say, up the universe's arse!
+
+738
+01:01:44,450 --> 01:01:46,494
+And do you know what else I say?
+You're fired.
+
+739
+01:01:46,578 --> 01:01:48,621
+With immediate effect.
+Now get out!
+
+740
+01:01:48,997 --> 01:01:53,042
+And make sure I never clap eyes
+on that imbecile ever again!
+
+741
+01:02:35,001 --> 01:02:36,836
+What
+are you doing, sir?
+
+742
+01:02:37,921 --> 01:02:41,049
+What do you think I'm doing,
+Bough? I'm going home.
+
+743
+01:02:41,424 --> 01:02:43,843
+But the Prime Minister is
+finalizing her deal with Volta.
+
+744
+01:02:43,968 --> 01:02:47,221
+She's taking him to the G12 Summit
+in Scotland as her special guest.
+
+745
+01:02:47,347 --> 01:02:51,351
+It's over, Bough. And there's
+absolutely nothing we can do about it.
+
+746
+01:02:52,060 --> 01:02:54,729
+But, sir, I have a plan.
+
+747
+01:02:55,104 --> 01:02:56,898
+Remember my wife?
+
+748
+01:03:05,782 --> 01:03:07,075
+Clear your baffles.
+
+749
+01:03:07,784 --> 01:03:09,577
+What?
+Mind your head, sir.
+
+750
+01:03:09,661 --> 01:03:10,745
+Ow!
+
+751
+01:03:13,831 --> 01:03:15,083
+This says we're sinking.
+
+752
+01:03:18,753 --> 01:03:23,633
+She's old and a little rusty, but she can
+put on a hell of a fireworks display.
+
+753
+01:03:40,525 --> 01:03:42,318
+Excellent work, Commander.
+
+754
+01:03:42,610 --> 01:03:45,405
+Jeremy has always spoken very
+highly of you, Agent English.
+
+755
+01:03:46,572 --> 01:03:47,573
+Who?
+
+756
+01:03:49,492 --> 01:03:50,660
+Oh.
+
+757
+01:03:50,743 --> 01:03:52,412
+Oh, yes, yes.
+
+758
+01:03:54,288 --> 01:03:56,416
+I'm no fan of the pen
+pushers myself, so
+
+759
+01:03:56,499 --> 01:03:58,519
+when orders came through
+stationing us here for the Summit,
+
+760
+01:03:58,543 --> 01:04:00,962
+well, I thought a lift was
+the least I could do.
+
+761
+01:04:01,295 --> 01:04:03,214
+Right, let's get
+a move on, Bough.
+
+762
+01:04:04,632 --> 01:04:06,443
+Oh, if you wouldn't mind
+keeping your mobiles off
+
+763
+01:04:06,467 --> 01:04:07,827
+until you're well clear,
+gentlemen.
+
+764
+01:04:07,885 --> 01:04:10,388
+The launch systems on the
+missiles are a bit 1980s.
+
+765
+01:04:10,471 --> 01:04:13,224
+Gets a tad twitchy
+around microwave radiation.
+
+766
+01:04:13,349 --> 01:04:17,353
+No problem there, Commander. We're
+doing this mission old-school.
+
+767
+01:04:27,488 --> 01:04:29,157
+This spot is perfect.
+
+768
+01:04:30,742 --> 01:04:32,076
+Come on.
+
+769
+01:04:47,592 --> 01:04:48,593
+Sorry, sir.
+
+770
+01:04:48,676 --> 01:04:50,136
+Come on, come on...
+
+771
+01:04:52,013 --> 01:04:53,765
+Right, Bough. Our
+mission here is simple.
+
+772
+01:04:53,931 --> 01:04:57,310
+Gain access to Volta's bedroom
+and take him out.
+
+773
+01:04:57,727 --> 01:04:59,807
+How are you going to
+get up there, though, sw?
+
+774
+01:05:00,063 --> 01:05:03,357
+A walk in the park
+for the exoskeleton.
+
+775
+01:05:09,822 --> 01:05:12,867
+Remotely operated
+neoprene bodysuit.
+
+776
+01:05:12,992 --> 01:05:15,912
+Increases the wearer's
+strength 100 times.
+
+777
+01:05:16,287 --> 01:05:19,582
+Right, power it up. Stick in
+the floppy disk and let's go.
+
+778
+01:05:27,882 --> 01:05:28,883
+Just”
+
+779
+01:05:45,358 --> 01:05:46,567
+Crikey, sir!
+
+780
+01:06:03,000 --> 01:06:04,836
+When will
+the weapon be ready?
+
+781
+01:06:04,961 --> 01:06:08,589
+<i>As soon as the Prime Minister
+signs the agreement, tonight.</i>
+
+782
+01:06:08,714 --> 01:06:10,049
+How do I fire it?
+
+783
+01:06:10,174 --> 01:06:12,760
+<i>Press once and the attack
+is launched.</i>
+
+784
+01:06:13,010 --> 01:06:16,472
+<i>After which, the data
+of every G12 country</i>
+
+785
+01:06:16,597 --> 01:06:20,101
+<i>will be transferred to the
+servers on board the Dot</i> Calm.
+
+786
+01:06:20,184 --> 01:06:21,185
+Perfect.
+
+787
+01:06:22,854 --> 01:06:23,938
+Ah.
+
+788
+01:06:25,356 --> 01:06:26,357
+Cheers.
+
+789
+01:06:34,782 --> 01:06:38,077
+You're working for Russian Intelligence
+and you have been from the start.
+
+790
+01:06:38,578 --> 01:06:41,390
+Which is why I've taken an antidote
+to the poison you keep in your ring,
+
+791
+01:06:41,414 --> 01:06:43,082
+and which you've poured
+into this drink.
+
+792
+01:06:44,834 --> 01:06:47,128
+And removed the firing pin
+from that pistol.
+
+793
+01:06:55,970 --> 01:06:57,930
+Everyone has to make a life
+for themselves.
+
+794
+01:06:58,222 --> 01:07:00,349
+It's just sad that yours is
+
+795
+01:07:01,434 --> 01:07:02,476
+over.
+
+796
+01:07:02,560 --> 01:07:03,644
+Hmm.
+
+797
+01:07:03,728 --> 01:07:07,023
+Fresh from my 3D printer.
+Hundred percent plastic.
+
+798
+01:07:10,234 --> 01:07:11,903
+And 100% deadly.
+
+799
+01:07:13,070 --> 01:07:14,989
+Killing me won't save you.
+
+800
+01:07:15,907 --> 01:07:16,908
+Don't bet on it.
+
+801
+01:07:21,662 --> 01:07:24,040
+Seriously,
+this cannot be happening.
+
+802
+01:07:24,248 --> 01:07:26,125
+Oh, but it is.
+
+803
+01:07:27,168 --> 01:07:28,336
+Drop the gun.
+
+804
+01:07:29,253 --> 01:07:30,588
+Get your hands in the air.
+
+805
+01:07:31,547 --> 01:07:32,548
+And you.
+
+806
+01:07:40,640 --> 01:07:41,933
+There's no time
+for this, Johnny.
+
+807
+01:07:42,808 --> 01:07:44,268
+Oh, it isn't possible.
+
+808
+01:07:44,352 --> 01:07:47,104
+You cannot be working
+with this English idiot!
+
+809
+01:07:47,188 --> 01:07:50,608
+Save the pillow talk
+for your prison cell, Volta.
+
+810
+01:07:50,942 --> 01:07:54,779
+Are you inside. sir? Yes. yes.
+Bough. you can power down.
+
+811
+01:07:55,154 --> 01:07:56,989
+Everything is under control.
+
+812
+01:07:57,949 --> 01:07:59,283
+Shut down.
+
+813
+01:08:23,849 --> 01:08:26,269
+An historic venue
+for an historic meeting.
+
+814
+01:08:26,352 --> 01:08:30,273
+The delegates from each G12 member
+nation will have their own priorities...
+
+815
+01:08:41,617 --> 01:08:43,160
+How do we get in now, sir?
+
+816
+01:08:51,919 --> 01:08:53,587
+What's the plan?
+
+817
+01:09:28,664 --> 01:09:30,082
+Hey, you!
+
+818
+01:09:30,750 --> 01:09:31,834
+Hey!
+
+819
+01:09:47,892 --> 01:09:50,686
+Thank you very much. I hope
+you have everything you need.
+
+820
+01:10:07,578 --> 01:10:08,788
+OW!
+
+821
+01:10:09,038 --> 01:10:10,581
+On behalf of the United Kingdom,
+
+822
+01:10:10,706 --> 01:10:14,251
+may I welcome you here today to
+this ancient meeting ohamber
+
+823
+01:10:14,377 --> 01:10:16,670
+where the great Scottish clans
+
+824
+01:10:16,796 --> 01:10:20,549
+once settled their differences
+and forged new alliances.
+
+825
+01:10:21,300 --> 01:10:23,511
+A place I have
+specifically chosen
+
+826
+01:10:23,594 --> 01:10:26,806
+in order to make
+a very special announcement.
+
+827
+01:10:27,807 --> 01:10:28,808
+Sir?
+
+828
+01:10:30,101 --> 01:10:34,063
+Are you all right, sir? ENGLISH: No,
+I'm not all right. Get me up, Bough.
+
+829
+01:10:37,775 --> 01:10:41,320
+It's very heavy, sir.
+I know how heavy it is. Bough.
+
+830
+01:10:44,240 --> 01:10:45,950
+We've got to get
+to the conference...
+
+831
+01:10:47,868 --> 01:10:50,079
+To the conference room
+before Volta...
+
+832
+01:10:51,789 --> 01:10:53,999
+Before Volta triggers
+his weapon.
+
+833
+01:10:55,543 --> 01:10:59,338
+And so, with my signature
+on this agreement...
+
+834
+01:11:01,048 --> 01:11:03,134
+it gives me great pleasure, oh,
+
+835
+01:11:03,217 --> 01:11:07,930
+to welcome to you my guest,
+my friend, Jason Volta.
+
+836
+01:11:10,850 --> 01:11:14,186
+<i><i>Standing
+by to launch attack, Jason.</i>
+
+837
+01:11:14,478 --> 01:11:16,647
+<i>Damn it. get me out of Ms stun.
+Johnny?</i>
+
+838
+01:11:16,772 --> 01:11:18,875
+- I can't see the join, sir.
+- It's the clasp.
+
+839
+01:11:18,899 --> 01:11:21,861
+Release the clasp andthetop
+and the bottom separate.
+
+840
+01:11:23,821 --> 01:11:25,781
+Must have jammed
+when you fell over, sir.
+
+841
+01:11:25,948 --> 01:11:27,992
+For goodness sake.
+Wait. Try this.
+
+842
+01:11:34,874 --> 01:11:36,876
+That is quite a lot of oil, sir.
+
+843
+01:11:37,960 --> 01:11:40,379
+Oh, come on!
+Come on, come on...
+
+844
+01:11:41,505 --> 01:11:45,217
+Can you imagine what the world would
+look like if it was run by Apple?
+
+845
+01:11:46,677 --> 01:11:49,096
+Or Google? Or...
+
+846
+01:11:49,638 --> 01:11:50,723
+Me?
+
+847
+01:11:53,976 --> 01:11:56,061
+Do you think
+you'd have failing schools?
+
+848
+01:11:56,812 --> 01:11:59,148
+Do you think you'd have endless
+waiting in your hospitals?
+
+849
+01:11:59,231 --> 01:12:00,232
+No.
+
+850
+01:12:00,316 --> 01:12:03,068
+Think you'd have such long
+lines in your airports?
+
+851
+01:12:03,194 --> 01:12:04,737
+- No.
+- No.
+
+852
+01:12:05,070 --> 01:12:09,492
+No, because all of these are
+simple data management problems.
+
+853
+01:12:09,617 --> 01:12:12,286
+And people like me,
+we love data.
+
+854
+01:12:13,037 --> 01:12:15,706
+We live for data.
+
+855
+01:12:16,123 --> 01:12:17,833
+Hal
+
+856
+01:12:17,958 --> 01:12:20,294
+Do you know
+what I live for, Volta?
+
+857
+01:12:20,377 --> 01:12:21,438
+God.
+
+858
+01:12:21,462 --> 01:12:26,842
+Eliminating the threat that lying
+villains like you pose to this country.
+
+859
+01:12:27,134 --> 01:12:28,344
+Oh, for God's sake.
+
+860
+01:12:28,636 --> 01:12:30,179
+Who is he?
+
+861
+01:12:30,346 --> 01:12:31,764
+Arrest this whack job.
+
+862
+01:12:31,889 --> 01:12:34,975
+The only person ordering an
+arrest around here will be me.
+
+863
+01:12:35,768 --> 01:12:38,145
+There's no cause for concern,
+ladies and gentlemen,
+
+864
+01:12:38,270 --> 01:12:42,942
+you are now in the capable hands
+of Her Majesty's Secret Service.
+
+865
+01:12:43,275 --> 01:12:47,947
+And you, my friend, are in for
+an uncomfortable ride.
+
+866
+01:13:04,463 --> 01:13:05,798
+Where was I?
+
+867
+01:13:07,258 --> 01:13:09,009
+Living for data.
+
+868
+01:13:09,385 --> 01:13:10,469
+Exactly.
+
+869
+01:13:11,804 --> 01:13:16,809
+My algorithms can solve every one of your
+problems as long as I have one thing.
+
+870
+01:13:16,892 --> 01:13:17,977
+Control.
+
+871
+01:13:18,644 --> 01:13:21,981
+And that is what you are about
+to give me now.
+
+872
+01:13:22,606 --> 01:13:24,775
+Jason, I wonder
+if you could just clarify...
+
+873
+01:13:24,858 --> 01:13:25,943
+Shut up.
+
+874
+01:13:26,485 --> 01:13:27,736
+Now, hold on.
+
+875
+01:13:29,071 --> 01:13:30,739
+<i>Castle now locked down</i>
+
+876
+01:13:31,782 --> 01:13:34,034
+<i>and under your control, Jason.</i>
+
+877
+01:13:35,995 --> 01:13:38,414
+The agreement this ignoramus
+just signed
+
+878
+01:13:38,497 --> 01:13:41,166
+didn't just give me access
+to all the UK's data.
+
+879
+01:13:41,292 --> 01:13:45,254
+It also gave me access to a
+junction box, in North Ayrshire
+
+880
+01:13:45,379 --> 01:13:47,923
+that connects
+the entire World Wide Web.
+
+881
+01:13:48,215 --> 01:13:53,887
+Disable the fiber-optic cables in that box
+and the Internet will cease to exist.
+
+882
+01:13:55,180 --> 01:13:57,766
+Johnny? Are you okay?
+
+883
+01:14:05,107 --> 01:14:07,943
+Have you got a phone?
+We need to call for backup.
+
+884
+01:14:08,027 --> 01:14:10,988
+There's no time for backup.
+I'm going after Volta.
+
+885
+01:14:11,071 --> 01:14:12,781
+And don't lose that one!
+
+886
+01:14:13,824 --> 01:14:17,745
+Do you understand what it means
+if I turn the Internet off?
+
+887
+01:14:17,953 --> 01:14:22,291
+Cities will go dark. Planes
+will fall out of the sky.
+
+888
+01:14:23,000 --> 01:14:26,462
+Trains will collide.
+Law and order will break down
+
+889
+01:14:26,545 --> 01:14:29,423
+and the world as you know it
+will be over.
+
+890
+01:14:30,132 --> 01:14:32,760
+Show, don't tell, right?
+
+891
+01:14:36,555 --> 01:14:38,557
+<i>Initiating attack, Jason.</i>
+
+892
+01:14:39,475 --> 01:14:41,477
+<i>Taking control of junction box.</i>
+
+893
+01:14:42,603 --> 01:14:47,483
+<i>Suspending Internet and electricity
+supply across Britain and Europe.</i>
+
+894
+01:14:48,525 --> 01:14:50,944
+<i>Stage one of attack complete.</i>
+
+895
+01:14:51,445 --> 01:14:54,740
+Ladies and gentlemen.
+I can stop the attack
+
+896
+01:14:54,823 --> 01:14:58,327
+as long as each of you signs the same
+agreement as the Prime Minister,
+
+897
+01:14:58,410 --> 01:15:00,412
+giving me complete control.
+
+898
+01:15:01,330 --> 01:15:02,748
+Your call.
+
+899
+01:15:03,582 --> 01:15:06,377
+<i>Welcome to British
+Intelligence. Get me Pegasus!</i>
+
+900
+01:15:06,794 --> 01:15:10,547
+<i>For Ml5, press one.
+For MIG, press two.</i>
+
+901
+01:15:10,964 --> 01:15:13,300
+<i>For M17, press three.</i>
+
+902
+01:15:19,890 --> 01:15:23,060
+<i>Eight G12 signatures
+now acquired.</i>
+
+903
+01:15:24,103 --> 01:15:26,689
+Signal the chopper,
+we're almost done here.
+
+904
+01:15:27,106 --> 01:15:28,899
+<i>For accounts, press five.</i>
+
+905
+01:15:28,982 --> 01:15:31,318
+<i>For childcare services. press six.
+Oh.</i> come <i>on!</i>
+
+906
+01:15:31,443 --> 01:15:33,779
+<i>For more options, press seven.</i>
+
+907
+01:15:36,323 --> 01:15:37,324
+What?
+
+908
+01:15:38,742 --> 01:15:43,914
+<i>Only two further signatures required
+to achieve control of G12 nations' data.</i>
+
+909
+01:15:44,748 --> 01:15:46,166
+<i>All UK data</i>
+
+910
+01:15:46,250 --> 01:15:49,044
+<i>new successfully transferred
+to the Dot</i> Calm.
+
+911
+01:15:49,169 --> 01:15:52,673
+<i>For Aphrodite, press one.
+For Pegasus, press two.</i>
+
+912
+01:15:55,217 --> 01:15:56,218
+Oh, my God.
+
+913
+01:15:56,301 --> 01:16:00,013
+<i>Dive the submarine.
+Repeat, dive the submarine.</i>
+
+914
+01:16:02,808 --> 01:16:04,935
+Director's office?
+<i>This is Johnny English.</i>
+
+915
+01:16:05,060 --> 01:16:09,273
+I need to speak to Pegasus immediately.
+It's a national emergency.
+
+916
+01:16:09,398 --> 01:16:10,958
+One moment, please, sir.
+
+917
+01:16:12,860 --> 01:16:14,003
+<i>This</i> is HMS Vengeance.
+
+918
+01:16:14,027 --> 01:16:17,656
+We have a full launch code.
+Repeat, launch code is locked.
+
+919
+01:16:17,781 --> 01:16:19,783
+<i>Do I have your permission
+to fire?</i>
+
+920
+01:16:19,908 --> 01:16:22,244
+Oh, my God. Could you hold on
+one moment, please?
+
+921
+01:16:22,369 --> 01:16:24,121
+Sir? Sir!
+
+922
+01:16:25,080 --> 01:16:26,081
+Hello?
+
+923
+01:16:26,331 --> 01:16:27,332
+<i>Hello?</i>
+
+924
+01:16:27,416 --> 01:16:30,544
+Sir! HMS <i>Vengeance here.</i> Do I
+<i>have</i> your permission tolaunch?
+
+925
+01:16:30,669 --> 01:16:33,589
+<i>What? Listen, we
+have to call in an attack.</i>
+
+926
+01:16:33,672 --> 01:16:34,983
+<i>Did you say
+"atta ck," sir?</i>
+
+927
+01:16:35,007 --> 01:16:37,342
+<i>Yes, an attack. Attack.</i>
+
+928
+01:16:38,719 --> 01:16:41,388
+General quarters,
+we are go for launch.
+
+929
+01:16:41,513 --> 01:16:43,432
+Target coordinates locked,
+Commander.
+
+930
+01:16:43,557 --> 01:16:44,558
+Hello?
+
+931
+01:16:46,477 --> 01:16:47,519
+Hello?
+
+932
+01:16:57,946 --> 01:17:00,491
+Commander, the
+missile is being redirected.
+
+933
+01:17:01,325 --> 01:17:03,994
+It seems to be looking on
+to a new hostile target.
+
+934
+01:17:06,622 --> 01:17:07,998
+What's a "Sherbet F"?
+
+935
+01:17:19,301 --> 01:17:21,428
+Oh. no. What was that?
+
+936
+01:17:22,971 --> 01:17:26,016
+<i>Dot Calm appears
+to be offline, Jason.</i>
+
+937
+01:17:26,183 --> 01:17:28,852
+<i>The cyber attack
+has been halted.</i>
+
+938
+01:17:32,898 --> 01:17:34,233
+Did you
+
+939
+01:17:34,608 --> 01:17:37,194
+make a call quite close
+to the submarine, sir?
+
+940
+01:17:40,072 --> 01:17:41,198
+Um...
+
+941
+01:17:41,281 --> 01:17:42,366
+Because”.
+
+942
+01:17:43,367 --> 01:17:44,701
+You did it, sir!
+
+943
+01:17:45,869 --> 01:17:47,621
+Mission accomplished!
+
+944
+01:17:48,163 --> 01:17:49,665
+VVeH, exacfly!
+
+945
+01:17:51,416 --> 01:17:54,503
+<i>I am re-evaluating
+our options, Jason.</i>
+
+946
+01:18:01,009 --> 01:18:02,845
+Johnny! Johnny!
+
+947
+01:18:02,928 --> 01:18:06,014
+Volta is getting away! He's
+heading for his helicopter!
+
+948
+01:18:06,098 --> 01:18:07,391
+No, Bough.
+
+949
+01:18:08,600 --> 01:18:10,269
+This one's mine.
+
+950
+01:18:43,886 --> 01:18:45,554
+Careful, sir. Sir?
+
+951
+01:18:56,607 --> 01:18:58,275
+Last two steps, sir.
+
+952
+01:19:03,363 --> 01:19:05,282
+Not so fast, Volta!
+
+953
+01:19:06,909 --> 01:19:08,994
+Is this supposed to scare me,
+Sir Lancelot?
+
+954
+01:19:14,124 --> 01:19:15,375
+Take cover, Bough.
+
+955
+01:19:22,007 --> 01:19:25,552
+Don't worry, he's only got six
+bullets in that thing.
+
+956
+01:19:29,014 --> 01:19:30,724
+And, of course,
+the thing itself.
+
+957
+01:19:33,143 --> 01:19:35,187
+You've run out
+of options, Volta.
+
+958
+01:19:36,021 --> 01:19:37,314
+Oh, you think you've won?
+
+959
+01:19:37,397 --> 01:19:38,607
+Mmm.
+
+960
+01:19:39,191 --> 01:19:42,235
+<i>Rerouting the attack
+to our Nevada servers, Jason.</i>
+
+961
+01:19:42,861 --> 01:19:46,865
+The world's going down, English.
+And I'll be the last man standing.
+
+962
+01:19:47,491 --> 01:19:50,535
+Goodbye, English!
+Goodbye, Internet.
+
+963
+01:19:51,787 --> 01:19:56,458
+I've got it. That's a Gazelle
+341 light attack helicopter.
+
+964
+01:19:57,042 --> 01:19:59,544
+If we can hack into
+its operating system,
+
+965
+01:19:59,795 --> 01:20:01,797
+we can disable
+the drive function.
+
+966
+01:20:02,089 --> 01:20:03,090
+Here.
+
+967
+01:20:06,927 --> 01:20:11,056
+Look at you! You couldn't use that
+thing if your life depended on it!
+
+968
+01:20:14,017 --> 01:20:15,394
+Let's get outta here.
+
+969
+01:20:16,103 --> 01:20:17,813
+Get this steel bird in the...
+
+970
+01:20:23,026 --> 01:20:27,948
+<i>Rerouting complete. Attack data
+now installed at our Nevada servers.</i>
+
+971
+01:20:28,365 --> 01:20:30,158
+<i>Should I initiate?</i>
+
+972
+01:20:30,575 --> 01:20:31,576
+<i>Jason?</i>
+
+973
+01:20:36,248 --> 01:20:38,417
+<i>Should I initiate
+the new attack?</i>
+
+974
+01:20:39,459 --> 01:20:41,962
+Initiate this!
+
+975
+01:20:42,045 --> 01:20:44,464
+<i>Jason.</i>
+
+976
+01:20:55,726 --> 01:20:57,161
+Well, uh,
+ladies and gentlemen.
+
+977
+01:20:57,185 --> 01:21:01,064
+I think we can all agree, that wasn't
+quite the evening we were expecting.
+
+978
+01:21:06,403 --> 01:21:08,405
+I had hoped to present
+to you tonight...
+
+979
+01:21:08,530 --> 01:21:10,824
+Thank you... a vision of
+what Britain might be.
+
+980
+01:21:11,241 --> 01:21:14,995
+But, as it happens, the man who
+saved us all this evening,
+
+981
+01:21:15,078 --> 01:21:18,623
+the man who, I might add, I
+personally assigned to this case,
+
+982
+01:21:19,249 --> 01:21:21,460
+has presented us with a
+different kind of vision.
+
+983
+01:21:21,543 --> 01:21:25,839
+A living embodiment, if you like, of
+those fundamental British qualities
+
+984
+01:21:25,922 --> 01:21:30,218
+that have ensured that our
+beloved island nation endures.
+
+985
+01:21:30,719 --> 01:21:33,638
+Courage under fire,
+endless ingenuity
+
+986
+01:21:33,722 --> 01:21:35,640
+and above all, a quiet
+
+987
+01:21:36,266 --> 01:21:38,977
+unassailable dignity.
+
+988
+01:21:58,121 --> 01:21:59,372
+Thank you.
+
+989
+01:22:06,546 --> 01:22:07,964
+All together.
+
+990
+01:22:18,850 --> 01:22:20,560
+Welcome back, Mr. English.
+
+991
+01:22:20,644 --> 01:22:21,812
+Thank you, Headmaster.
+
+992
+01:22:21,895 --> 01:22:23,664
+Thank you for agreeing
+to be our guest speaker.
+
+993
+01:22:23,688 --> 01:22:26,483
+Now the governors and staff are all
+waiting for us in the rose garden.
+
+994
+01:22:26,566 --> 01:22:29,486
+Yes, if you could just excuse me
+for a few minutes, Headmaster.
+
+995
+01:22:35,242 --> 01:22:36,243
+Oh.
+
+996
+01:22:38,120 --> 01:22:39,371
+Morning. sir!
+Hello. sir!
+
+997
+01:22:39,454 --> 01:22:41,706
+Welcome back, sir!
+
+998
+01:22:45,752 --> 01:22:46,837
+Surprise!
+
+999
+01:22:47,796 --> 01:22:48,964
+Thank you.
+
+1000
+01:22:50,173 --> 01:22:51,758
+<i>Where's Sinker?</i>
+
+1001
+01:22:52,676 --> 01:22:54,469
+Good.
+Here. sir.
+
+1002
+01:22:54,719 --> 01:22:56,638
+And, of course, Baggaley.
+
+1003
+01:22:57,931 --> 01:22:59,075
+That was very good.
+Very good.
+
+1004
+01:22:59,099 --> 01:23:00,701
+All right, gather round,
+everyone. Gather round.
+
+1005
+01:23:01,893 --> 01:23:03,812
+I've got some toys to show you.
+
+1006
+01:23:03,895 --> 01:23:05,438
+Ooh!
+There we go.
+
+1007
+01:23:06,523 --> 01:23:08,817
+There we are. There we are.
+
+1008
+01:23:09,317 --> 01:23:11,403
+- Breadstick blowpipe. anyone?
+- Me!
+
+1009
+01:23:11,486 --> 01:23:12,529
+There you go.
+
+1010
+01:23:12,612 --> 01:23:14,865
+Granny Smith hand grenade?
+
+1011
+01:23:15,407 --> 01:23:17,409
+And what about a garroting watch?
+Here. sir.
+
+1012
+01:23:17,492 --> 01:23:18,493
+There you go.
+
+1013
+01:23:19,870 --> 01:23:21,580
+Ooh!
+Here, let me take that.
+
+1014
+01:23:21,705 --> 01:23:23,999
+Don't worry. It's only a mild sedative.
+
+1015
+01:23:25,208 --> 01:23:27,711
+Oh! That's just
+a five-second fuse.
+
+1016
+01:23:28,962 --> 01:23:31,590
+Yes, all right, we all know
+what garroting looks like.
+
+1017
+01:23:31,715 --> 01:23:33,717
+Whenever you're ready,
+Mr. English.
+
+1018
+01:23:33,842 --> 01:23:36,428
+Oh, I'm sorry, Headmaster,
+I'll just be one moment.
+
+1019
+01:23:36,553 --> 01:23:38,722
+Just take those. Thank you.
+Ooh.
+
+1020
+01:23:39,598 --> 01:23:42,642
+Put those away, shall we?
+There we...
+
+1021
+01:23:43,351 --> 01:23:44,519
+Um...
+
+1022
+01:23:45,353 --> 01:23:47,189
+I always
+did love a jelly baby.
+
+1023
+01:23:47,213 --> 01:23:49,213
+MkvCage.ws
+
